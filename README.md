@@ -6,3 +6,6 @@ Information Management System of Employees
 2. Install the any CPP compiler for example Visual Studio Code, DevC++, CodeBlocks etc.
 3. Run the code in compiler. 
 
+## How the output look like?
+
+https://github.com/SSukhvant/CPP-Project/blob/master/Screenshot.png

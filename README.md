@@ -8,4 +8,4 @@ Information Management System of Employees
 
 ## How the output look like?
 
-https://github.com/SSukhvant/CPP-Project/blob/master/Screenshot.png
+'https://github.com/SSukhvant/CPP-Project/blob/master/Screenshot.png'
